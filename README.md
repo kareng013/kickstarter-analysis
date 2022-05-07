@@ -21,7 +21,7 @@ The last step for the pivot table was to filter out the category for Theater.
 
 In order to visualize this data, I used the *PivotChart* tool in excel to visualize the data by a line graph. In the x-axis are the months, and the y-axis displays the total amount for each of the outcomes.
 
-/assets/images/Theater_Outcomes_vs_Launch.png
+![This is an image](images/Theater_Outcomes_vs_Launch.png)
 
 One part of this step I found difficult was creating the Months in the rows area. At first I was dragging down Years, but it would just remove it from the filter and not give me an option to add months. I went back to the module 1 challenge hint, and reading the tip gave me an idea to instead move the *Date Created Conversion* down to rows. From there I filtered out for months, and thus was successful in achieving outcomes by Months. 
 
