@@ -54,23 +54,23 @@ For the Analysis on *Outcomes based on Goals*, a difficult part was creating the
 
 - What can you conclude about the Outcomes based on Goals?
 
-    *Plays that were successful had funraiser goals that were below $15,000
-    *Outliers exist however for ranges between $35,000-$44,999, results for successful plays
-    *Recommendation to set a goal below $5000 in order to avoid a higher chance of a failed funraiser. 
+    * Plays that were successful had funraiser goals that were below $15,000
+    * Outliers exist however for ranges between $35,000-$44,999, results for successful plays
+    * Recommendation to set a goal below $5000 in order to avoid a higher chance of a failed funraiser. 
 
 - What are some limitations of this dataset?
 
-    *Outliers with higher goals weighing the distribution
-    *Many external factors could influence the dataset
-    *Dataset does not filter for countries
-    *Currency is different for every play, does not give accurate data for Outcomes by goals
+    * Outliers with higher goals weighing the distribution
+    * Many external factors could influence the dataset
+    * Dataset does not filter for countries
+    * Currency is different for every play, does not give accurate data for Outcomes by goals
     *Number of backers
 
 - What are some other possible tables and/or graphs that we could create?
 
-    *Box and Whisker chart: Shows the number of outliers and the range in which plays were successful or failed
-    *Filter table for goals by country and currency or convert the currency to compare between different countries using a single currency. Compare against success.
+    * Box and Whisker chart: Shows the number of outliers and the range in which plays were successful or failed
+    * Filter table for goals by country and currency or convert the currency to compare between different countries using a single currency. Compare against success.
     * Line graph showing number of backers against total pledged amount to show realistic amount that can be used as goal
 
-    
+
 
