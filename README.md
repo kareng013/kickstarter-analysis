@@ -64,7 +64,7 @@ For the Analysis on *Outcomes based on Goals*, a difficult part was creating the
     * Many external factors could influence the dataset
     * Dataset does not filter for countries
     * Currency is different for every play, does not give accurate data for Outcomes by goals
-    *Number of backers
+    * Number of backers
 
 - What are some other possible tables and/or graphs that we could create?
 
